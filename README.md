@@ -1,3 +1,9 @@
+Prewiev;
+
+https://github.com/yucel2017/ToDoAppNative/assets/126460768/a585a98b-fe6d-4024-a9aa-01b72baa4df1
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
